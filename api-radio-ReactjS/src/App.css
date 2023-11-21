@@ -1,0 +1,21 @@
+table {
+    position: absolute;
+    top: 8rem;
+    width: 100%;    
+ }
+
+ th,
+ td {
+     text-align: left;
+ }
+ tr, th {
+     font-size: 1.5vw;
+ }
+
+ tr:hover {
+     background-color:crimson;
+ }
+
+ button {
+     padding: 0;
+ }

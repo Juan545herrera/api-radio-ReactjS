@@ -1,0 +1,46 @@
+footer {
+    display: flex;
+    width: 100%;
+    height: 10%;
+    margin: 0;
+    color: white;
+    position: fixed;
+    font-size: 2vw;
+    z-index: 1;
+    margin-bottom: .01rem;
+    bottom: 0;
+}
+img {
+   width:auto;
+   height: 80%;
+}
+#copyright {
+   font-size: 0.5vw;
+}
+#autor {
+   width: 10%;
+   height: 70%;
+}
+#metadata {
+       width: 70%;
+       height: 80%;
+       align-items: flex-end;
+}
+#custom-audio-player {
+    width: 20%;
+    height: 50%;
+    margin: 1px;
+}
+
+#audio-controls {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: gray;
+    padding: 1px;
+    border-radius: 5px;
+}
+
+#play-pause-button {
+    cursor: pointer;
+}

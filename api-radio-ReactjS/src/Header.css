@@ -1,0 +1,17 @@
+#header {
+    width: 100vw;
+    margin: 0;
+    top: 0;
+    height: 8rem;
+    color: white;
+    position:fixed;
+    z-index: 1;
+  }
+
+h2 {
+    margin-bottom: 0rem;
+    color: white;
+}
+#buscar {
+    margin-top: 0rem;
+}  
